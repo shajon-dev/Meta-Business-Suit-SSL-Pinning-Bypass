@@ -6,7 +6,7 @@
 - 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**
 
 ---
-![headers]( https://raw.githubusercontent.com/SHAJON-404/Meta-Business-Suit-SSL-Bypass/refs/heads/main/IMAGE/v528.jpg )
+![headers]( https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Bypass/refs/heads/main/IMAGE/v528.jpg )
 ---
 
 
