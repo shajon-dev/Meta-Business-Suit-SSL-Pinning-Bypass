@@ -2,11 +2,11 @@
 📡 Intercept Busniess-Suit network traffic on Android device/emulator
 
 ## 📌 Latest Tested App Version
-- 🎯 Busniess-Suit App version: **528.0.0.37.108**
+- 🎯 Busniess-Suit App version: **536.0.0.18.435**
 - 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**
 
 ---
-![headers]( https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Bypass/refs/heads/main/IMAGE/v528.jpg )
+![headers](https://raw.githubusercontent.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/refs/heads/main/IMAGE/v536.jpg)
 ---
 
 
