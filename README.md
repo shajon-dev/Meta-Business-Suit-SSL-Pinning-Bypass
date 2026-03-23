@@ -56,20 +56,3 @@
     <img src="https://img.youtube.com/vi/-Tm5d5DqtWI/maxresdefault.jpg" alt="Tutorial Video" width="700" />
   </a>
 </p>
-
-## 📜 License
-
-This project is licensed under the  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
-
-You are free to:
-- Share — copy and redistribute the material
-- Adapt — remix, transform, and build upon the material
-
-Under the following terms:
-- Attribution — You must give appropriate credit to the original author (S. SHAJON).
-- NonCommercial — You may not use this project for commercial or professional purposes.
-
-⚠ Commercial or professional use requires prior written permission from the author.
-
-🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
