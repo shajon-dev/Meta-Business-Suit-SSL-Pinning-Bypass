@@ -2,13 +2,13 @@
 📡 Intercept Meta Business Suite network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **545.0.0.49.109**
+- App version: **547.0.0.13.109**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Business Suite Android](assets/v545.jpg)
+![Business Suite Android](assets/v547.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -22,7 +22,7 @@
 
 ## 📦 For Demo - Download Official APKs
   - For any issues, contact me on Telegram. Read README.md carefully before use.
-  - Latest version is not free.
+  - Please note that the latest version is a paid release and is not available for free download.
 <table width="100%">
   <thead>
     <tr>
@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">545.0.0.49.109</td>
+      <td align="center">547.0.0.13.109</td>
       <td align="center">✅ Bypassed</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
@@ -55,12 +55,13 @@
 **📂 Free Patched `libstartup.so` files are available in the `libs/` folder**
 **📜 Consolidated login scripts are available in the `login.sh` file**
 
-## ☕ Donation
+## ☕ Buy Me a Coffee
 
 If this project helped you, consider buying me a coffee! ❤️
 
 | Coin | Network | Address |
 | :--- | :--- | :--- |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | `839622149` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | `TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | `0x22d4f314acbf6055b0a37df8df68f9cd40ba889a` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | `14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE` |
@@ -92,3 +93,7 @@ If this project helped you, consider buying me a coffee! ❤️
     <img src="https://img.youtube.com/vi/-Tm5d5DqtWI/maxresdefault.jpg" alt="Tutorial Video" width="700" />
   </a>
 </p>
+
+## Need Solution for SSL Pinning Bypass?
+- I provide SSL pinning bypass solutions for both Android and iOS applications.
+If a bypass for a specific application is not available on my GitHub, please contact me on Telegram for support. I am active on Telegram most of the time.
